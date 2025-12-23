@@ -98,6 +98,7 @@ FRONTMATTER = \
 EXTRAS = \
 	ReleaseNotes.ipynb \
 	Importing.ipynb \
+	Copyright.ipynb \
 	Guide_for_Authors.ipynb \
 	Template.ipynb \
 	404.ipynb

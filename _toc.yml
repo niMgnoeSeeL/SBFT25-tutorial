@@ -43,10 +43,12 @@ parts:
     chapters:
     - file: FuzzingInTheLarge
     - file: WhenToStopFuzzing
-  - caption: Appendices
+  - caption: Essays
     chapters:
     - file: AcademicPrototyping
     - file: PrototypingWithPython
+  - caption: Appendices
+    chapters:
     - file: ExpectError
     - file: Timer
     - file: Timeout
@@ -57,4 +59,5 @@ parts:
     chapters:
     - file: ReleaseNotes
     - file: Importing
+    - file: Copyright
     - file: Guide_for_Authors
